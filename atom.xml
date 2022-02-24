@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heiseflame.github.io</id>
     <title>Gridea</title>
-    <updated>2022-02-23T07:47:27.333Z</updated>
+    <updated>2022-02-24T01:32:04.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heiseflame.github.io"/>
     <link rel="self" href="https://heiseflame.github.io/atom.xml"/>
@@ -16,12 +16,20 @@
         <link href="https://heiseflame.github.io/post/6666/">
         </link>
         <updated>2022-02-23T06:32:12.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="sitdown一款-html-转-markdown-神器">sitdown：一款 html 转 markdown 神器</h2>
-<p>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<br>
+        <summary type="html"><![CDATA[<h2 id="sitdown一款-html-转-markdown-神器">sitdown：一款 html 转 markdown 神器</h2>
+<p>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<br>
 <a href="https://www.jianshu.com/u/ab3cfc390b99"><img src="data:image/webp;base64,UklGRjQEAABXRUJQVlA4ICgEAAAwFgCdASpgAGAAPpFAmkolo6IhpzQMALASCWUA0pV4da/929V/1WhF5/+xuLBMo/Y/m+/tMb1YSLk7qrJk3/l/ynok+m/YL6KP7knBXLBGewx40x6pLwLnwt5gGUn3tF/7LQAvwmSzbt6ieo7AdZFQg7ksF8QsCmxk1WOSy5fUndJ3ZT6zIE9Sq8dLn2dS04QlJOMrDTFDz9/OubaX8g7R1qAYN94ERCgel5Q0WzhSUM84PB2ybIdS2KAA/vulgDpUgy0Q1VKkXyPffCUGkQruU25ZNgtvXCoDMHdXDGx3tV8fPsn1z4sfvpxFyaJVhbrRC/cGiymWc/e/6p+m5sFtaF/tGiRPdy3hoXfduavPxtgODOS9FawurruRfznNhFb4pK8+ip7wNha6eCzI2JRVYFbF7+jJxtuebOTyhJiIdJaG5utxUrb4FFLy1b2o2kS1k/hDX/uwpdIBXhR0TZSdMDENMH59UsPQsuF7u+7T6P6qhFVST0ygQNz/MZCST3K/DcPsJ+LN2raNNjxjX0Mixuo5fhivnX05mYUCYzzCvgVJzYd1Yg0kWnXFMDQgluApQ7DSSv2XrdIrFa9VTzntfTbxRd42YjJ3HbUnMcFwfvmQTKJCOQGg1W/5m5WPSICzUpaf1S+6S3XPPLO+ROBDCEOexoc86Z6veCeHsysEAQZJV2OhajLx8v8wbAubbyywrf69D8oKEL4WxminwA2wHT3vLQZXqK9jCZXGMOyiNj24/Vck0mm9ERelnS334sQWUP/oO7vjrB8kBLTCzDxpsEikVv6ZBqb9Yl7efp8/pj1Jozy1s8k9nKYQRKnn0mAlKll6L6nFAULLG2xV4sd01afb9KX7tl+ru8BWwBs48bj7Ve59Ti417Q8R4qlc5/KtLFXBlw2OzkwNGaFZP/t35lXzjJrJ8pCSlPpLpROwswvMv5zXI5L2jjoRVXAPsOXcSyif+yAqc1dTW2iQ/Gd7rbH7Kg8qksD63e4hJHLTwaRlY/DMtHTkJYsmaRTfosGII5JLyu3WZhMFI54Kgn9aeq5V2qrCayp/SZ7q0RtlpXCqTwr1uWbZw5FwW4znm7dKb8PSKLeoztFTza6izmdRUmS8qyRonJ5keokhnVkAIBAaT1dxrt0Q6Yl4xN+sx94aK0ZwabapUsY3PBMAPn101GwJhiL9hmrwy95YZTGbvDJ+IT/liobd7c6c1q2A+4TFmM9vj8MP+daHDj0BjehFIqgyM8TE/8onOQhoclwBMKxQ+jOLdERVOL7418TTDZECb9wTRXzWmoaFnbbZZq4XjEKTlf4Jg2QbcHp4PCQpJta+I0xWXaIUK/DzmIM56L8+dXaakC1dCSdsqOmaR0CVRewxy9rPcvvUrjYuTFg/YgyoXizITbzrrWQLgaZsUgvzHIpERwAAAA==" alt="" loading="lazy"></a></p>
 <p>0.3982020.03.01 22:54:39字数 476阅读 4,533</p>
 <h2 id="前言">前言</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="sitdown一款-html-转-markdown-神器">sitdown：一款 html 转 markdown 神器</h2>
+<p>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<br>
+<a href="https://www.jianshu.com/u/ab3cfc390b99"><img src="data:image/webp;base64,UklGRjQEAABXRUJQVlA4ICgEAAAwFgCdASpgAGAAPpFAmkolo6IhpzQMALASCWUA0pV4da/929V/1WhF5/+xuLBMo/Y/m+/tMb1YSLk7qrJk3/l/ynok+m/YL6KP7knBXLBGewx40x6pLwLnwt5gGUn3tF/7LQAvwmSzbt6ieo7AdZFQg7ksF8QsCmxk1WOSy5fUndJ3ZT6zIE9Sq8dLn2dS04QlJOMrDTFDz9/OubaX8g7R1qAYN94ERCgel5Q0WzhSUM84PB2ybIdS2KAA/vulgDpUgy0Q1VKkXyPffCUGkQruU25ZNgtvXCoDMHdXDGx3tV8fPsn1z4sfvpxFyaJVhbrRC/cGiymWc/e/6p+m5sFtaF/tGiRPdy3hoXfduavPxtgODOS9FawurruRfznNhFb4pK8+ip7wNha6eCzI2JRVYFbF7+jJxtuebOTyhJiIdJaG5utxUrb4FFLy1b2o2kS1k/hDX/uwpdIBXhR0TZSdMDENMH59UsPQsuF7u+7T6P6qhFVST0ygQNz/MZCST3K/DcPsJ+LN2raNNjxjX0Mixuo5fhivnX05mYUCYzzCvgVJzYd1Yg0kWnXFMDQgluApQ7DSSv2XrdIrFa9VTzntfTbxRd42YjJ3HbUnMcFwfvmQTKJCOQGg1W/5m5WPSICzUpaf1S+6S3XPPLO+ROBDCEOexoc86Z6veCeHsysEAQZJV2OhajLx8v8wbAubbyywrf69D8oKEL4WxminwA2wHT3vLQZXqK9jCZXGMOyiNj24/Vck0mm9ERelnS334sQWUP/oO7vjrB8kBLTCzDxpsEikVv6ZBqb9Yl7efp8/pj1Jozy1s8k9nKYQRKnn0mAlKll6L6nFAULLG2xV4sd01afb9KX7tl+ru8BWwBs48bj7Ve59Ti417Q8R4qlc5/KtLFXBlw2OzkwNGaFZP/t35lXzjJrJ8pCSlPpLpROwswvMv5zXI5L2jjoRVXAPsOXcSyif+yAqc1dTW2iQ/Gd7rbH7Kg8qksD63e4hJHLTwaRlY/DMtHTkJYsmaRTfosGII5JLyu3WZhMFI54Kgn9aeq5V2qrCayp/SZ7q0RtlpXCqTwr1uWbZw5FwW4znm7dKb8PSKLeoztFTza6izmdRUmS8qyRonJ5keokhnVkAIBAaT1dxrt0Q6Yl4xN+sx94aK0ZwabapUsY3PBMAPn101GwJhiL9hmrwy95YZTGbvDJ+IT/liobd7c6c1q2A+4TFmM9vj8MP+daHDj0BjehFIqgyM8TE/8onOQhoclwBMKxQ+jOLdERVOL7418TTDZECb9wTRXzWmoaFnbbZZq4XjEKTlf4Jg2QbcHp4PCQpJta+I0xWXaIUK/DzmIM56L8+dXaakC1dCSdsqOmaR0CVRewxy9rPcvvUrjYuTFg/YgyoXizITbzrrWQLgaZsUgvzHIpERwAAAA==" alt="" loading="lazy"></a></p>
+<p>0.3982020.03.01 22:54:39字数 476阅读 4,533</p>
+<h2 id="前言">前言</h2>
+<!-- more -->
 <p>markdown 是一款非常强大且语法简洁的标记语言。我们**（特别是技术人员）**更加青睐它，用它来写文档、博客、文章等。</p>
+<!-- more -->
 <p>有些平台，比如掘金、csdn，技术人员使用较多，所以他们的编辑器支持 markdown，而有的平台，例如微信、知乎，则对 markdown 用户不太友好。</p>
 <p>某些工具可以将 markdown 解析成这些平台兼容的 html，比如 <a href="https://links.jianshu.com/go?to=https%3A%2F%2Fmdnice.com%2F">mdnice</a>。</p>
 <p>但对于已经发布的文章，而你又不是原文作者，你想转发或者借鉴一段时，排版问题也许又会让你挠头不已。要是有一款兼容各大平台的 html 的转换器该多好呀！</p>
@@ -208,38 +216,6 @@ sitdown.use(applyJuejinRule);
 <p>2024-12-22 16:54:58</p>
 <p>自动续费状态</p>
 <p>已关闭</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://heiseflame.github.io/post/hello-gridea/</id>
-        <link href="https://heiseflame.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
